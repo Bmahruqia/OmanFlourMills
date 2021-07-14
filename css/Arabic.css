@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&family=Tajawal:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&family=Tajawal:wght@200;300;400&display=swap');
 
 /* Smartphones (portrait and landscape) ----------- */
 @media screen and (max-width: 480px) and (min-width: 300px) 
@@ -75,8 +76,7 @@
 
 body {
   margin:0;
-  font-family: 'Montserrat', sans-serif;
- 
+
 
 }
 
@@ -88,13 +88,15 @@ section {
 }
 #into
 {
+   font-family: 'Open Sans', sans-serif;
   color: black;
   padding: 5% 5% 5% 5%;
 }
 #intro h3
 {
+  
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-size: 90%;
   text-align: center;
 color: #9e1c2a;
@@ -108,6 +110,7 @@ color: #9e1c2a;
   margin-right: auto;
 }
   #quote__text {
+    font-family: 'Tajawal', sans-serif;
     color:#603200;
     position: absolute;
     text-align: center;
@@ -128,11 +131,13 @@ color: #9e1c2a;
   {
     margin-top: 10px;
     width: 85%;
+     font-family: 'Open Sans', sans-serif;
   }
   #download
   {
     margin-top: 10px;
     margin-bottom: 10px;
+     font-family: 'Open Sans', sans-serif;
   }
   #render
   {
