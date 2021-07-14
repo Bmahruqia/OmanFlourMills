@@ -76,7 +76,7 @@
 
 body {
   margin:0;
- font-family: 'Open Sans', sans-serif;
+
 
 }
 
@@ -89,11 +89,13 @@ section {
 }
 #into
 {
+   font-family: 'Open Sans', sans-serif;
   color: black;
   padding: 5% 5% 5% 5%;
 }
 #intro h3
 {
+  
   margin-top: 10px;
   margin-bottom: 10px;
   font-size: 90%;
@@ -130,11 +132,13 @@ color: #9e1c2a;
   {
     margin-top: 10px;
     width: 85%;
+     font-family: 'Open Sans', sans-serif;
   }
   #download
   {
     margin-top: 10px;
     margin-bottom: 10px;
+     font-family: 'Open Sans', sans-serif;
   }
   #render
   {
